@@ -1,0 +1,6 @@
+#twitter connection api
+
+consumer_key MLnZvtFFXCUmzGsguhORdKoO4
+consumer_secret oYzrEPKMJuOBLytj9wSWQLYYrqutusRTvLcjmnFgxFHTFrJykS
+access_token 791962340-qpHuYJl7RNxwsChrciNRwHxEGF9AHxWgSsDfwRLu
+access_token_secret HmjAUcVjwTcrscCrIZjZSArdINRgdLWVC048zgBradNoiAswin:REAL_TIME_STREAMING_ANALYSIS admin$ 
