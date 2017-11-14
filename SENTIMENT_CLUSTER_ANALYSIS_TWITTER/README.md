@@ -1,12 +1,6 @@
-## Assignment 0
+### SENTIMENT & CLUSTER ANALYSIS - TWITTER API
 
-**50 points**  
+_>>_   Developed an application in python where given the hashtags that are trending on Twitter, it identifies the users who have used those hashtags and builds a graph between them. Using Girvan Newman cluster analysis algorithm, clusters among them are identified. Tweets are classified using Machine learning models - Support Vector Machine, naïve based and logistic regression for predicting sentiment. Computed average testing accuracy for each model using Cross-validation and accuracy comparison analysis is reported.
 
 
-1. Get started with git and python by following the instructions at [Setup.md](Setup.md).
-  
-2. Complete the data collection assignment, following the instructions in [a0.py](a0.py).
 
-3. Complete the short answer questions in [ShortAnswer.txt](ShortAnswer.txt).
-
-3. Push your all your code and supporting files (e.g., .png) to your **private** GitHub repo in the folder `a0/`.
