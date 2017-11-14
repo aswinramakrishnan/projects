@@ -1,0 +1,65 @@
+ShortAnswer
+
+Enter your responses inline below and push this file to your private GitHub
+repository.
+
+
+1. Assume I plan to use the friend_overlap function above to quantify the
+similarity of two users. E.g., because 344 is larger than 1, I conclude that
+Jill Stein and Gary Johnson are more similar than Hillary Clinton and Donald
+Trump.
+
+How is this approach misleading? How might you fix it?
+
+This approach is misleading because Jill Stein and Gary Jhonson together follows more number of users, while Donald Trump and Hillary Clinton together follows less number of users.Based on this by comparing the list of users by each candidate follow will lead to a misleading result.
+
+This approach makes easier to find the similar groups/communities but doesn’t necessary to be a robust approach to find the similarity between them.
+
+One of the way to approach this would be extending our analysis by including the list of users/people they follow. Also it would be better if it includes the classifications concerning the candidates tweet. 
+
+For example, if Trump and Clinton tweets more about the on going latest news of United States though both don’t follow any News Channels, they are similar in perspective compared to Jill and Gray who doesn’t tweet more about the news but still follow the news channel.
+
+
+
+
+
+
+
+2. Looking at the output of your followed_by_hillary_and_donald function, why
+do you think this user is followed by both Hilary Clinton and Donald Trump,
+who are rivals? Do some web searches to see if you can find out more
+information.
+
+The White House is followed by both Hillary Clinton and Donald Trump. It is an administrative office for Presidentship of the United states to get latest news. 
+
+Hillary Clinton follows White House because she was one of the election nominee for the president of the United states and also to check the updates from the President of United States and changes that are happening in White house administration under Donald trump.At the same time Donald trump was the opposite party in the same election against Hillary Clinton. Hillary Clinton and Donald Trump are the rival parties against each other for the presidentship election in 2017
+
+
+
+
+3. There is a big difference in how many accounts each candidate follows (Gary
+Johnson follows over 3K accounts, while Donald Trump follows less than
+50). Why do you think this is? How might that affect our analysis?
+
+
+I think Gary Johnson may be more active user in twitter than Donald Trump or may be Donald Trump is interested in following only the updates in his business or close circle of friends. Either way, the analysis can go wrong while performing similarity study with the other candidates due to lack of data since majority of studies are based on the candidates tweets.
+
+
+
+
+4. The follower graph we've collected is incomplete. To expand it, we would
+have to also collect the list of accounts followed by each of the
+friends. That is, for each user X that Donald Trump follows, we would have to
+also collect all the users that X follows. Assuming we again use the API call
+https://dev.twitter.com/rest/reference/get/friends/ids, how many requests will
+we have to make? Given how Twitter does rate limiting
+(https://dev.twitter.com/rest/public/rate-limiting), approximately how many
+minutes will it take to collect this data?
+
+
+Trump has 45 friends, we need to request 45 search queries to get the total followers of his friends.
+
+The rate limit window is only 15 requests per window. After this there is a 15 min interval for next window. So 45/15 would be approximately 3 window sessions. On total it should be around 30 minutes to get results.
+
+
+
