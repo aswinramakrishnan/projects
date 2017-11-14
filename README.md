@@ -29,6 +29,11 @@ https://media.iitonline.iit.edu/lectures/F17_ITMD-521-0_j68fk32fPVhk9MnmvLNqv6Ej
 
 ![Movie Recommendation System](https://github.com/aswinramakrishnan/projects/tree/master/MOVIE_RECOMENDATION_SYSTEM)
 
+
+### _>>_ REAL TIME STREAMING ANALYSIS - SPARK STREAMING
+
+![Spark streaming analysis](https://github.com/aswinramakrishnan/projects/tree/master/REAL_TIME_STREAMING_ANALYSIS)
+
 # Machine Learning
 
 ![ML pic](https://github.com/aswinramakrishnan/projects/blob/master/ML%20CHEAT%20SHEET.png)
