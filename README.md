@@ -8,11 +8,11 @@ I have hand full of experience in Big Data Technologies as Graduate Teaching Ass
 
 [Find out more About me!](http://aswinramakrishnan.info/)
 
-![photo](https://github.com/aswinramakrishnan/projects/blob/master/PHOTO.jpeg)
+![photo](https://github.com/aswinramakrishnan/projects/blob/master/source/PHOTO.jpeg)
 
-# PRESENTATIONS
+# SPARK PRESENTATIONS
 
-https://media.iitonline.iit.edu/lectures/F17_ITMD-521-0_j68fk32fPVhk9MnmvLNqv6EjGaXzbmfbzG26zhBE/index.html
+![Spark Presentations!](https://github.com/aswinramakrishnan/projects/blob/master/source/presentation_vid.mov)
 
 # PROJECTS
 
@@ -36,4 +36,4 @@ https://media.iitonline.iit.edu/lectures/F17_ITMD-521-0_j68fk32fPVhk9MnmvLNqv6Ej
 
 # Machine Learning
 
-![ML pic](https://github.com/aswinramakrishnan/projects/blob/master/ML%20CHEAT%20SHEET.png)
+![ML pic](https://github.com/aswinramakrishnan/projects/blob/master/source/ML%20CHEAT%20SHEET.png)
