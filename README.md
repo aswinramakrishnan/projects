@@ -6,7 +6,7 @@ I am Graduate Student, pursuing Master's in Information Technology and Managemen
 
 I have hand full of experience in Big Data Technologies as Graduate Teaching Assistance at IIT. Likewise, I gained in-depth knowledge and experience in Data Modelling and Analytics during my 3 years of work experience in Wipro Technologies. This is my personal proprietorship profile to know more about me.
 
-![Find out more About me!](http://aswinramakrishnan.info/)
+[Find out more About me!](http://aswinramakrishnan.info/)
 
 ![photo](https://github.com/aswinramakrishnan/projects/blob/master/PHOTO.jpeg)
 
