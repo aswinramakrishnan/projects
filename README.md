@@ -12,7 +12,7 @@ I have hand full of experience in Big Data Technologies as Graduate Teaching Ass
 
 # SPARK PRESENTATIONS
 
-![Spark Presentations!](https://github.com/aswinramakrishnan/projects/blob/master/source/presentation_vid.mov)
+[![Spark Presentations](https://github.com/aswinramakrishnan/projects/blob/master/source/pic_presen_vid.png)](https://github.com/aswinramakrishnan/projects/blob/master/source/presentation_vid.mov)
 
 # PROJECTS
 
